@@ -1,15 +1,87 @@
 {
-  "ogw": [
-      "Mina y Denn, nacidos salvajes",
-      "Entrenadora de armas",
-      "Protector de Affa",
-      "Salto formidable",
-      "Rapaz de expedición",
-      "Estado natural",
-      "Sima consumidora",
-      "Comando de Zada",
-      "Membrana de contención",
-      "Progenitor ciclónico",
-      "Planeador de estepas"
-  ]
+  "ori": {
+      "name": "Magic Origins",
+      "saga": "Magic Origins",
+      "year": [2015,1],
+      "ncards": 272,
+      "cards": [
+          [109, "Nantuko Husk"],
+          [170, "Caustic Caterpillar"],
+          [176, "Evolutionary Leap"],
+          [229, "Hangarback Walker"],
+          [248, "Llanowar wastes"],
+          [250, "Rogue's Passage"]
+      ]
+  },
+  "ktk": {
+      "name": "Khans of Tarkir",
+      "saga": "Khans of Tarkir",
+      "year": [2014,1],
+      "ncards": 269,
+      "cards": [
+          [73, "Grim Haruspex"],
+          [81, "Murderous Cut"]
+      ]
+  },
+  "frf": {
+      "name": "Fate Reforged",
+      "saga": "Khans of Tarkir",
+      "year": [2014,2],
+      "ncards": 185,
+      "cards": [
+          [85, "Sultai Emissary"],
+          [87, "Tasigur, the Golden Fang"],
+          [143, "Warden of the First Tree"],
+          [145, "Whisperwood Elemental"],
+          [169, "Jungle Hollow"]
+      ]
+  },
+  "dtk": {
+      "name": "Dragons of Tarkir",
+      "saga": "Khans of Tarkir",
+      "year": [2014,3],
+      "ncards": 264,
+      "cards": [
+          [98, "Duress"],
+          [124, "Ultimate Price"]
+      ]
+  },
+  "bfz": {
+      "name": "Battle for Zendikar",
+      "saga": "Battle for Zendikar",
+      "year": [2015,1],
+      "ncards": 274,
+      "cards": [
+          [99, "Smothering Abomination"],
+          [105, "Bone Splinters"],
+          [124, "Vampiric Rites"],
+          [126, "Zulaport Cutthroat"],
+          [163, "Blisterpod"],
+          [176, "Jaddi Offshoot"],
+          [187, "Rot Shambler"],
+          [236, "Evolving Wilds"]
+      ]
+  },
+  "ogw": {
+      "name": "Oath of the Gatewatch",
+      "saga": "Battle for Zendikar",
+      "year": [2015,2],
+      "ncards": 184,
+      "cards": [
+          [0, "Mina y Denn, nacidos salvajes"],
+          [0, "Entrenadora de armas"],
+          [0, "Protector de Affa"],
+          [0, "Salto formidable"],
+          [0, "Rapaz de expedición"],
+          [0, "Estado natural"],
+          [0, "Sima consumidora"],
+          [0, "Comando de Zada"],
+          [0, "Membrana de contención"],
+          [0, "Progenitor ciclónico"],
+          [0, "Planeador de estepas"],
+          [79, "Zángano de masacre"],
+          [83, "Agitación cadavérica"],
+          [170, "Vestigio desmoronándose"]
+      ]
+  }
 }
