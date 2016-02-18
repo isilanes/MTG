@@ -1,5 +1,6 @@
 import json
 import datetime
+import requests
 import subprocess as sp
 from bs4 import BeautifulSoup as BS
 
@@ -44,15 +45,12 @@ for block in J:
                 price = p
 
         if not price:
-            # Get price from download:
+            # Get price from URL:
             cn = card.replace(" ", "+")
             bname = J[block]["name"].replace(" ","+")
             url = "https://es.magiccardmarket.eu/Products/Singles/{0}/{1}".format(bname, cn)
-            html = "tmp.html"
-            s = sp.Popen("wget -q '{0}' -O {1}".format(url, html), shell=True)
-            s.communicate()
-            with open(html) as f:
-                soup = BS(f, "html.parser")
+            html_string = requests.get(url).text
+            soup = BS(html_string, "html.parser")
 
             price = soup.find("td", class_="outerRight col_Odd col_1 cell_2_1")
             price = price.string.split()[0].replace(",",".")
