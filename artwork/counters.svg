@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86622094"
-     inkscape:cx="296.80762"
-     inkscape:cy="500.17008"
+     inkscape:cx="131.1455"
+     inkscape:cy="572.94291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,635 +52,483 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5"
-       cx="92.651451"
-       cy="92.787094"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="50.962212"
-       y="104.27097"
-       id="text4149-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2"
-         x="50.962212"
+    <g
+       id="g3496">
+      <circle
+         r="44.503685"
+         cy="92.787094"
+         cx="92.651451"
+         id="path4139-5"
+         style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1"
          y="104.27097"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <circle
-       style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7"
-       cx="201.62914"
-       cy="94.011566"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="159.9399"
-       y="105.49545"
-       id="text4149-1-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5"
-         x="159.9399"
-         y="105.49545"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <circle
-       style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2"
-       cx="304.4845"
-       cy="93.195267"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="262.79526"
-       y="104.67915"
-       id="text4149-1-6-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1"
-         x="262.79526"
-         y="104.67915"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <circle
-       style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9"
-       cx="408.97247"
-       cy="91.562637"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="367.28323"
-       y="103.04652"
-       id="text4149-1-6-0-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9"
-         x="367.28323"
-         y="103.04652"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <circle
-       style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-1"
-       cx="510.19519"
-       cy="88.297371"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="468.50595"
-       y="99.781258"
-       id="text4149-1-6-0-5-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-2"
-         x="468.50595"
-         y="99.781258"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <circle
-       style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7"
-       cx="613.05054"
-       cy="86.664764"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="571.36133"
-       y="98.148621"
-       id="text4149-1-6-0-5-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1"
-         x="571.36133"
-         y="98.148621"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <circle
-       style="fill:#fff16b;fill-opacity:1;fill-rule:nonzero;stroke:#7f7835;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8"
-       cx="200.81282"
-       cy="190.33641"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="159.12361"
-       y="201.82027"
-       id="text4149-1-6-0-5-3-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0"
-         x="159.12361"
-         y="201.82027"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+2/+2</tspan></text>
-    <circle
-       style="fill:#fff16b;fill-opacity:1;fill-rule:nonzero;stroke:#7f7835;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-4"
-       cx="306.93341"
-       cy="191.96904"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="265.2442"
-       y="203.4529"
-       id="text4149-1-6-0-5-3-9-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-2"
-         x="265.2442"
-         y="203.4529"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+2/+2</tspan></text>
-    <circle
-       style="fill:#fff16b;fill-opacity:1;fill-rule:nonzero;stroke:#7f7835;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-4-6"
-       cx="410.60507"
-       cy="192.78535"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="368.91586"
-       y="204.26921"
-       id="text4149-1-6-0-5-3-9-1-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-2-3"
-         x="368.91586"
-         y="204.26921"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+2/+2</tspan></text>
-    <circle
-       style="fill:#fff16b;fill-opacity:1;fill-rule:nonzero;stroke:#7f7835;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-4-6-5"
-       cx="512.6441"
-       cy="194.41798"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="470.9549"
-       y="205.90184"
-       id="text4149-1-6-0-5-3-9-1-7-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-2-3-2"
-         x="470.9549"
-         y="205.90184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+2/+2</tspan></text>
-    <circle
-       style="fill:#6bc9ff;fill-opacity:1;fill-rule:nonzero;stroke:#35647d;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-46"
-       cx="355.91217"
-       cy="293.19177"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="314.22296"
-       y="304.67563"
-       id="text4149-1-6-0-5-3-9-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-26"
-         x="314.22296"
-         y="304.67563"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+3/+3</tspan></text>
-    <circle
-       style="fill:#6bc9ff;fill-opacity:1;fill-rule:nonzero;stroke:#35647d;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-46-3"
-       cx="460.40012"
-       cy="287.47757"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="418.71091"
-       y="298.96143"
-       id="text4149-1-6-0-5-3-9-7-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-26-3"
-         x="418.71091"
-         y="298.96143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+3/+3</tspan></text>
-    <circle
-       style="fill:#6bc9ff;fill-opacity:1;fill-rule:nonzero;stroke:#35647d;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-46-4"
-       cx="248.97527"
-       cy="294.00809"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="207.28603"
-       y="305.49194"
-       id="text4149-1-6-0-5-3-9-7-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-26-1"
-         x="207.28603"
-         y="305.49194"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+3/+3</tspan></text>
-    <circle
-       style="fill:#f34602;fill-opacity:1;fill-rule:nonzero;stroke:#782301;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-46-4-0"
-       cx="411.42139"
-       cy="386.25137"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="369.73215"
-       y="397.73523"
-       id="text4149-1-6-0-5-3-9-7-7-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-26-1-7"
-         x="369.73215"
-         y="397.73523"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+5/+5</tspan></text>
-    <circle
-       style="fill:#f34602;fill-opacity:1;fill-rule:nonzero;stroke:#782301;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-7-2-9-7-8-46-4-0-4"
-       cx="302.85187"
-       cy="387.884"
-       r="44.503685" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="261.16263"
-       y="399.36783"
-       id="text4149-1-6-0-5-3-9-7-7-4-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-5-1-9-1-0-26-1-7-9"
-         x="261.16263"
-         y="399.36783"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">+5/+5</tspan></text>
-    <circle
-       style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78"
-       cx="106.52876"
-       cy="548.28937"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="53.315346"
-       y="549.29529"
-       id="text4149-1-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1"
-         x="53.315346"
-         y="549.29529"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="77.54969"
-       y="591.14575"
-       id="text4470"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472"
-         x="77.54969"
-         y="591.14575"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1"
-       cx="244.89369"
-       cy="544.61597"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="191.68028"
-       y="545.62189"
-       id="text4149-1-2-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2"
-         x="191.68028"
-         y="545.62189"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="215.91461"
-       y="587.47235"
-       id="text4470-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7"
-         x="215.91461"
-         y="587.47235"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#d7aaff;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1-9"
-       cx="247.34264"
-       cy="675.22595"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="190.04767"
-       y="676.23187"
-       id="text4149-1-2-5-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2-1"
-         x="190.04767"
+         x="50.962212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="104.27097"
+           x="50.962212"
+           id="tspan4151-2"
+           sodipodi:role="line">+1/+1</tspan></text>
+    </g>
+    <g
+       id="g3501"
+       transform="translate(-190.48258,-5.7721994)">
+      <circle
+         r="44.503685"
+         cy="94.517899"
+         cx="403.99423"
+         id="path4139-5-7-2-9-7-8"
+         style="fill:#fff16b;fill-opacity:1;fill-rule:nonzero;stroke:#7f7835;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-6-0-5-3-9"
+         y="106.00175"
+         x="362.30502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="106.00175"
+           x="362.30502"
+           id="tspan4151-2-5-1-9-1-0"
+           sodipodi:role="line">+2/+2</tspan></text>
+    </g>
+    <g
+       id="g3506"
+       transform="translate(-163.93046,-2.3088798)">
+      <circle
+         r="44.503685"
+         cy="94.289986"
+         cx="507.56979"
+         id="path4139-5-7-2-9-7-8-46-4"
+         style="fill:#6bc9ff;fill-opacity:1;fill-rule:nonzero;stroke:#35647d;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-6-0-5-3-9-7-7"
+         y="105.77384"
+         x="465.88055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="105.77384"
+           x="465.88055"
+           id="tspan4151-2-5-1-9-1-0-26-1"
+           sodipodi:role="line">+3/+3</tspan></text>
+    </g>
+    <g
+       id="g3511">
+      <circle
+         r="44.503685"
+         cy="92.347397"
+         cx="472.55453"
+         id="path4139-5-7-2-9-7-8-46-4-0-4"
+         style="fill:#f34602;fill-opacity:1;fill-rule:nonzero;stroke:#782301;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-6-0-5-3-9-7-7-4-3"
+         y="103.83122"
+         x="430.86526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="103.83122"
+           x="430.86526"
+           id="tspan4151-2-5-1-9-1-0-26-1-7-9"
+           sodipodi:role="line">+5/+5</tspan></text>
+    </g>
+    <g
+       id="g3445"
+       transform="translate(-21.934358,-444.45935)">
+      <circle
+         r="57.677288"
+         cy="675.22595"
+         cx="247.34264"
+         id="path4139-5-78-1-9"
+         style="fill:#d7aaff;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-5-1"
          y="676.23187"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+2/+2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="218.36354"
-       y="718.08234"
-       id="text4470-0-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7-8"
-         x="218.36354"
+         x="190.04767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="676.23187"
+           x="190.04767"
+           id="tspan4151-2-1-2-1"
+           sodipodi:role="line">+2/+2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-0-2"
          y="718.08234"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#d7aaff;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1-9-6"
-       cx="377.95261"
-       cy="673.59332"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="320.65762"
-       y="674.59924"
-       id="text4149-1-2-5-1-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2-1-5"
-         x="320.65762"
-         y="674.59924"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+2/+2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="348.97351"
-       y="716.44971"
-       id="text4470-0-2-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7-8-7"
-         x="348.97351"
-         y="716.44971"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#d455f8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1-9-6-4"
-       cx="316.72919"
-       cy="803.38696"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="263.51578"
-       y="806.02551"
-       id="text4149-1-2-5-1-0-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2-1-5-9"
-         x="263.51578"
+         x="218.36354"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="718.08234"
+           x="218.36354"
+           id="tspan4472-7-8"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       id="g3452"
+       transform="translate(42.714276,-567.98442)">
+      <circle
+         r="57.677288"
+         cy="803.38696"
+         cx="316.72919"
+         id="path4139-5-78-1-9-6-4"
+         style="fill:#d455f8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-5-1-0-6"
          y="806.02551"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+3/+3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="287.75009"
-       y="846.24335"
-       id="text4470-0-2-8-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7-8-7-7"
-         x="287.75009"
+         x="263.51578"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="806.02551"
+           x="263.51578"
+           id="tspan4151-2-1-2-1-5-9"
+           sodipodi:role="line">+3/+3</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-0-2-8-2"
          y="846.24335"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#7c0093;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1-9-6-4-8"
-       cx="359.1774"
-       cy="938.89484"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="305.96399"
-       y="941.53339"
-       id="text4149-1-2-5-1-0-6-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2-1-5-9-0"
-         x="305.96399"
+         x="287.75009"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="846.24335"
+           x="287.75009"
+           id="tspan4472-7-8-7-7"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       id="g3459"
+       transform="translate(128.14283,-703.05389)">
+      <circle
+         r="57.677288"
+         cy="938.89484"
+         cx="359.1774"
+         id="path4139-5-78-1-9-6-4-8"
+         style="fill:#7c0093;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-5-1-0-6-2"
          y="941.53339"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;">+5/+5</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="330.1983"
-       y="981.75122"
-       id="text4470-0-2-8-2-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7-8-7-7-0"
-         x="330.1983"
+         x="305.96399"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           y="941.53339"
+           x="305.96399"
+           id="tspan4151-2-1-2-1-5-9-0"
+           sodipodi:role="line">+5/+5</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-0-2-8-2-4"
          y="981.75122"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;">Mau</tspan></text>
-    <circle
-       style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-4"
-       cx="367.11188"
-       cy="544.40869"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="313.89847"
-       y="545.41461"
-       id="text4149-1-2-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-7"
-         x="313.89847"
-         y="545.41461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="338.13281"
-       y="587.26508"
-       id="text4470-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-8"
-         x="338.13281"
-         y="587.26508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-4-9"
-       cx="498.71805"
-       cy="545.56311"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="445.50464"
-       y="546.56903"
-       id="text4149-1-2-0-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-7-5"
-         x="445.50464"
-         y="546.56903"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="469.73898"
-       y="588.41949"
-       id="text4470-7-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-8-2"
-         x="469.73898"
-         y="588.41949"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-4-9-8"
-       cx="626.86084"
-       cy="542.09979"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="573.6474"
-       y="543.10571"
-       id="text4149-1-2-0-9-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-7-5-9"
-         x="573.6474"
+         x="330.1983"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           y="981.75122"
+           x="330.1983"
+           id="tspan4472-7-8-7-7-0"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       id="g3438"
+       transform="translate(-531.04235,-305.92657)">
+      <circle
+         r="57.677288"
+         cy="542.09979"
+         cx="626.86084"
+         id="path4139-5-78-4-9-8"
+         style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-0-9-8"
          y="543.10571"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+1/+1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="597.88177"
-       y="584.95618"
-       id="text4470-7-9-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-8-2-4"
-         x="597.88177"
+         x="573.6474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="543.10571"
+           x="573.6474"
+           id="tspan4151-2-1-7-5-9"
+           sodipodi:role="line">+1/+1</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-7-9-8"
          y="584.95618"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#d7aaff;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1-9-6-6"
-       cx="507.95355"
-       cy="673.70593"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="450.65857"
-       y="674.71185"
-       id="text4149-1-2-5-1-0-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2-1-5-3"
-         x="450.65857"
-         y="674.71185"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+2/+2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="478.97446"
-       y="716.56232"
-       id="text4470-0-2-8-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7-8-7-5"
-         x="478.97446"
-         y="716.56232"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#d455f8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1-9-6-4-4"
-       cx="450.23157"
-       cy="803.00317"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="397.01816"
-       y="805.64172"
-       id="text4149-1-2-5-1-0-6-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2-1-5-9-7"
-         x="397.01816"
-         y="805.64172"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+3/+3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="421.25247"
-       y="845.85956"
-       id="text4470-0-2-8-2-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7-8-7-7-6"
-         x="421.25247"
-         y="845.85956"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
-    <circle
-       style="fill:#7c0093;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4139-5-78-1-9-6-4-8-4"
-       cx="490.63696"
-       cy="938.07263"
-       r="57.677288" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="437.42355"
-       y="940.71118"
-       id="text4149-1-2-5-1-0-6-2-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4151-2-1-2-1-5-9-0-1"
-         x="437.42355"
-         y="940.71118"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">+5/+5</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="461.65787"
-       y="980.92902"
-       id="text4470-0-2-8-2-4-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4472-7-8-7-7-0-9"
-         x="461.65787"
-         y="980.92902"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Mau</tspan></text>
+         x="597.88177"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="584.95618"
+           x="597.88177"
+           id="tspan4472-8-2-4"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       id="g3438-8"
+       transform="translate(-529.88789,6.9266321)">
+      <circle
+         r="57.677288"
+         cy="542.09979"
+         cx="626.86084"
+         id="path4139-5-78-4-9-8-3"
+         style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-0-9-8-3"
+         y="543.10571"
+         x="573.6474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="543.10571"
+           x="573.6474"
+           id="tspan4151-2-1-7-5-9-0"
+           sodipodi:role="line">+1/+1</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-7-9-8-6"
+         y="584.95618"
+         x="597.88177"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="584.95618"
+           x="597.88177"
+           id="tspan4472-8-2-4-1"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       id="g3438-8-0"
+       transform="translate(-384.42846,9.2355038)">
+      <circle
+         r="57.677288"
+         cy="542.09979"
+         cx="626.86084"
+         id="path4139-5-78-4-9-8-3-2"
+         style="fill:#ffaae8;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-0-9-8-3-8"
+         y="543.10571"
+         x="573.6474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="543.10571"
+           x="573.6474"
+           id="tspan4151-2-1-7-5-9-0-6"
+           sodipodi:role="line">+1/+1</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-7-9-8-6-4"
+         y="584.95618"
+         x="597.88177"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="584.95618"
+           x="597.88177"
+           id="tspan4472-8-2-4-1-9"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       transform="translate(-395.97286,-173.166)"
+       id="g4362">
+      <circle
+         r="57.677288"
+         cy="542.09979"
+         cx="626.86084"
+         id="path4139-5-78-4-9-8-3-4"
+         style="fill:#ff9696;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-0-9-8-3-4"
+         y="543.10571"
+         x="571.6474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="543.10571"
+           x="571.6474"
+           id="tspan4151-2-1-7-5-9-0-7"
+           sodipodi:role="line">+1/+0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-7-9-8-6-5"
+         y="584.95618"
+         x="597.88177"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="584.95618"
+           x="597.88177"
+           id="tspan4472-8-2-4-1-3"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       transform="translate(-100.43625,-27.706575)"
+       id="g4362-2">
+      <g
+         transform="translate(-430.60608,-145.45943)"
+         id="g4399">
+        <circle
+           style="fill:#96ff96;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4139-5-78-4-9-8-3-4-5"
+           cx="626.86084"
+           cy="542.09979"
+           r="57.677288" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="570.49298"
+           y="544.26013"
+           id="text4149-1-2-0-9-8-3-4-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4151-2-1-7-5-9-0-7-9"
+             x="570.49298"
+             y="544.26013"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+0/+1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="597.88177"
+           y="584.95618"
+           id="text4470-7-9-8-6-5-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4472-8-2-4-1-3-3"
+             x="597.88177"
+             y="584.95618"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(-240.12348,12.698822)"
+       id="g4362-9">
+      <circle
+         r="57.677288"
+         cy="542.09979"
+         cx="626.86084"
+         id="path4139-5-78-4-9-8-3-4-8"
+         style="fill:#ff9696;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2-0-9-8-3-4-2"
+         y="543.10571"
+         x="571.6474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="543.10571"
+           x="571.6474"
+           id="tspan4151-2-1-7-5-9-0-7-4"
+           sodipodi:role="line">+1/+0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4470-7-9-8-6-5-1"
+         y="584.95618"
+         x="597.88177"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="584.95618"
+           x="597.88177"
+           id="tspan4472-8-2-4-1-3-31"
+           sodipodi:role="line">Mau</tspan></text>
+    </g>
+    <g
+       transform="translate(348.64086,154.69493)"
+       id="g4362-2-9">
+      <g
+         transform="translate(-430.60608,-145.45943)"
+         id="g4399-9">
+        <circle
+           style="fill:#96ff96;fill-opacity:1;fill-rule:nonzero;stroke:#3e0036;stroke-width:2.58797598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4139-5-78-4-9-8-3-4-5-5"
+           cx="626.86084"
+           cy="542.09979"
+           r="57.677288" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.40761566px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="570.49298"
+           y="544.26013"
+           id="text4149-1-2-0-9-8-3-4-1-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4151-2-1-7-5-9-0-7-9-5"
+             x="570.49298"
+             y="544.26013"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">+0/+1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="597.88177"
+           y="584.95618"
+           id="text4470-7-9-8-6-5-6-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4472-8-2-4-1-3-3-3"
+             x="597.88177"
+             y="584.95618"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Mau</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(6.6303788,593.61767)"
+       id="g3496-9">
+      <circle
+         r="44.503685"
+         cy="92.787094"
+         cx="92.651451"
+         id="path4139-5-6"
+         style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-0"
+         y="104.27097"
+         x="50.962212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="104.27097"
+           x="50.962212"
+           id="tspan4151-2-5"
+           sodipodi:role="line">+1/+1</tspan></text>
+    </g>
+    <g
+       transform="translate(150.93537,598.23542)"
+       id="g3496-7">
+      <circle
+         r="44.503685"
+         cy="92.787094"
+         cx="92.651451"
+         id="path4139-5-9"
+         style="fill:#ccffaa;fill-opacity:1;fill-rule:nonzero;stroke:#003e00;stroke-width:1.99687731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4149-1-2"
+         y="104.27097"
+         x="50.962212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.950037px;line-height:125%;font-family:'Noto Serif Lao';-inkscape-font-specification:'Noto Serif Lao, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="104.27097"
+           x="50.962212"
+           id="tspan4151-2-2"
+           sodipodi:role="line">+1/+1</tspan></text>
+    </g>
   </g>
 </svg>
