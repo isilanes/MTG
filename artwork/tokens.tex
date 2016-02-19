@@ -8,23 +8,18 @@
 \usepackage{charter}
 \usepackage{babel}
 \input{epsf}
-
 \begin{document}
 \newcommand{\mc}{\multicolumn}
 \newcommand{\mr}{\multirow}
 \newcommand{\cw}{\columnwidth}
-%\newcommand{\ig}[2]{\includegraphics[width=#1\cw]{#2}}
-%\newcommand{\igmm}[2]{\includegraphics[width=#1mm]{#2}}
-\newcommand{\ig}[1]{\includegraphics[width=62mm]{tokens/#1}}
-
+\newcommand{\ig}[1]{\includegraphics[angle=90,width=88mm]{tokens/#1}}
 \thispagestyle{empty}
-
 \begin{center}
   \begin{tabular}{ccc}
-      \ig{eldrazi-scion}               & \ig{thopter} & \ig{thopter} \\
-      \ig{thopter}                     & \ig{thopter} & \ig{warden-human-warrior} \\
-      \ig{warden-human-spirit-warrior} & \ig{morph} & \ig{manifest} \\
+      \ig{warrior} & \ig{warrior} \\
+      \ig{warrior} & \ig{warrior} \\
+      \ig{spirit-warrior} & \ig{eldrazi-scion} \\
+      \ig{eldrazi-scion} & \ig{eldrazi-scion} \\
   \end{tabular}
 \end{center}
-
 \end{document}
