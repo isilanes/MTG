@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86622094"
-     inkscape:cx="131.1455"
-     inkscape:cy="572.94291"
+     inkscape:cx="160.20626"
+     inkscape:cy="473.66108"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="1280"
-     inkscape:window-y="28"
+     inkscape:window-width="1280"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -344,7 +344,10 @@
     </g>
     <g
        transform="translate(-395.97286,-173.166)"
-       id="g4362">
+       id="g4362"
+       inkscape:export-filename="/home/isilanes/git/games/MTG/artwork/tokens/counters/mauri-plus1-plus0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <circle
          r="57.677288"
          cy="542.09979"
@@ -378,7 +381,10 @@
     </g>
     <g
        transform="translate(-100.43625,-27.706575)"
-       id="g4362-2">
+       id="g4362-2"
+       inkscape:export-filename="/home/isilanes/git/games/MTG/artwork/counters/mauri-plus0-plus1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-430.60608,-145.45943)"
          id="g4399">
